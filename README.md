@@ -8,4 +8,4 @@ Machine Learning for Indoor Positioning Research at Drake University
   $ git clone https://github.com/maheshgaya/ML-GPS-Research-.git
   ```
   
-2. Run the python files using "python <filename>.py"
+2. Run the python files using `python <filename>.py`
